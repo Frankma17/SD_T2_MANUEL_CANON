@@ -1,0 +1,7 @@
+En el repositorio se encuentran los dos archivos correspondientes a la actividad 1 y actividad 2 de la tarea , diferenciados como P1 Y P2 , ademas se encuentran los archivos del ejercicio en java y en el servidor con Node.js y Express
+
+P1 ---
+En este archivo se ejecuta el Servidor y el Cliente , no tiene interaz grafica porque es un ejercicio no tan complejo , se solicita la posicion y se devuelve el valor que hay en esa posicion, el servidor es Server.java y el cliente Client.java
+
+P2 ---
+El servidor fue probado con el cliente en el navegador Firefox , y servidor por consola , el puerto para el cliente es el 5000 y para solicitar la posicion se ingresa con size=posicion.
